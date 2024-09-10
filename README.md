@@ -14,12 +14,12 @@ Key Features
 - AI-Powered Learning: Our platform adapts to individual learning needs through sophisticated AI models, ensuring a personalized experience for each student.
 - Advanced Machine Learning Models: Built using PyTorch, our AI models drive the intelligent features of the platform, from content recommendations to personalized assessments.
 - Seamless User Interface: The frontend is developed using Next.js, ensuring a fast, responsive, and user-friendly interface for educators and learners alike.
-- Scalable Backend: Powered by NestJS, the backend infrastructure provides secure, scalable, and reliable APIs that support real-time communication and data-driven decision-making.
+- Scalable Backend: Powered by FastAPI, the backend infrastructure provides secure, scalable, and reliable APIs that support real-time communication and data-driven decision-making.
 
 Technology Stack
 
 - Frontend: [Next.js](https://nextjs.org/)
-- Backend: [NestJS](https://nestjs.com/)
+- Backend: [FastAPI](https://fastapi.tiangolo.com/)
 - AI Models: [PyTorch](https://pytorch.org/)
 - Database: Secure, scalable data storage
 
