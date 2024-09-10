@@ -1,7 +1,7 @@
 Here’s a **README.md** file for your **LuminusAI** `.github` repository:
 
 ```markdown
-# LuminusAI
+LuminusAI
 
 **LuminusAI** is an innovative, AI-driven educational platform under the umbrella of **Versein Corporation**, designed to transform the future of learning through advanced Artificial Intelligence (AI) and Machine Learning (ML).
 
